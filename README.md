@@ -7,6 +7,11 @@ I work as a **Front-end Developer** at [Joyjet](https://www.joyjet.com/)
 ### Find me 
 - Linkedin: https://www.linkedin.com/in/johanguse/
 
+### Last works
+- https://jrguse.com.br
+
+
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=johanguse&repo=johanguse&countColorcountColor)
 
 ### Analytics ⚙️
