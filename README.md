@@ -1,7 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1588262851/8816/meow_bread_appear.gif?1588262851" width="30"/> Hello! </h1>
 <p>I work as a UI Engineer and WordPress Developer at <a href="https://joyjet.com/">Joyjet</a></p>
-<p> At Joyjet I've work with: React, React Native, TypeScript, Styled Components, SASS, Storybook, Design System, WordPress and with focus on UI and Accessibility</p>
+<p> At Joyjet I've work with: React, React Native, TypeScript, Styled Components, SASS, Storybook, Design System, WordPress and focus on UI and Accessibility</p>
 <p><a href="https://www.linkedin.com/in/johanguse/"><img src="https://img.shields.io/badge/-@johanguse-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/johanguse/" alt="LinkedIn Badge"></a></p>
 
 <h4>Personal Website</h4>
