@@ -7,8 +7,13 @@
 
 <h4>Personal Website</h4>
 <a href="https://jrguse.com.br/">jrguse.com.br</a>
+
 <h3>⚙️ Analytics</h3>
+
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johanguse&layout=compact&count_private=true)
+
 ![Github Statistics](https://github-readme-stats.vercel.app/api/?username=johanguse&count_private=true&show_icons=true)
+
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=johanguse&hide_border=true)
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=johanguse&repo=johanguse&countColorcountColor)
