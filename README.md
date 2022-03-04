@@ -10,7 +10,8 @@ Now I am looking to learn mobile programming like Swift, SwiftUI and Flutter/Dar
 
 
 <h4>Github Status</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=johanguse&show_icons=true&theme=gotham" alt="Johan's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=johanguse&show_icons=true&include_all_commits=true&theme=gotham" alt="Johan's Stats" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanguse&layout=compact&theme=tokyonight)](https://github.com/Olanetsoft)
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=johanguse&repo=johanguse&countColorcountColor)
