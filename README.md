@@ -8,6 +8,11 @@ Now I am looking to learn mobile programming like Swift, SwiftUI and Flutter/Dar
 <h4>Personal Website</h4>
 <a href="https://jrguse.com.br/">jrguse.com.br</a>
 
+<h4>Main Skills</h4>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bootstrap,sass,styledcomponents,tailwind,ts,react,nextjs,nodejs,wordpress,graphql,ps,figma,svg,md,vscode,flutter,swift,jquery,mysql,postgres,mongodb,firebase,aws,supabase,php,nginx,docker,cloudflare&perline=8)](https://skillicons.dev)
+
+
 
 <h4>Github Status</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=johanguse&show_icons=true&include_all_commits=true&theme=dark" alt="Johan's Stats" />
