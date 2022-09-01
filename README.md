@@ -5,7 +5,7 @@
 <p><a href="https://www.linkedin.com/in/johanguse/"><img src="https://img.shields.io/badge/-@johanguse-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/johanguse/" alt="LinkedIn Badge"></a></p>
 
 <h4>Personal Website</h4>
-<a href="https://jrguse.com.br/">jrguse.com.br</a>
+<a href="http://johanguse.dev/">johanguse.dev</a>
 
 <h4>Main Skills</h4>
 
