@@ -9,8 +9,7 @@
 
 <h4>Main Skills</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bootstrap,sass,styledcomponents,tailwind,ts,react,nextjs,nodejs,wordpress,graphql,ps,figma,svg,md,vscode,flutter,swift,jquery,mysql,postgres,mongodb,firebase,aws,supabase,php,nginx,docker,cloudflare&perline=8)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bootstrap,sass,styledcomponents,tailwind,vite,ts,react,nextjs,astro,wordpress,nodejs,nestjs,graphql,ps,figma,svg,md,vscode,flutter,swift,jquery,mysql,postgres,mongodb,firebase,aws,supabase,php,laravel,nginx,docker,cloudflare&perline=8)](https://skillicons.dev)
 
 
 <h4>Github Status</h4>
@@ -20,4 +19,9 @@
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=johanguse&repo=johanguse&countColorcountColor)
 
+<h4>Socials</h4>
+<p align="left"> <a href="https://www.github.com/johanguse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/johanguse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/johanguse" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
+
+<h4>Support Me</h4>
+<a href="https://www.buymeacoffee.com/johanguse"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
