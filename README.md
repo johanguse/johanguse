@@ -9,7 +9,7 @@
 
 <h4>Main Skills</h4>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bootstrap,sass,styledcomponents,tailwind,vite,ts,react,nextjs,astro,wordpress,nodejs,nestjs,graphql,ps,figma,svg,md,vscode,flutter,swift,jquery,mysql,postgres,mongodb,firebase,aws,supabase,php,laravel,nginx,docker,cloudflare&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,bootstrap,sass,styledcomponents,tailwind,vite,ts,react,nextjs,astro,wordpress,nodejs,nestjs,graphql,ps,figma,svg,md,vscode,flutter,swift,jquery,mysql,postgres,mongodb,firebase,vercel,aws,supabase,php,laravel,nginx,docker,cloudflare&perline=8)](https://skillicons.dev)
 
 
 <h4>Github Status</h4>
