@@ -1,5 +1,5 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1588262851/8816/meow_bread_appear.gif?1588262851" width="30"/> Hello! </h1>
-<p>I'm working as Software Engineer at <a href="https://www.swarmnyc.com/">SWARM</a>.</p>
+<p>Software Engineer full-stack with more than a decade of experience in the industry. Specialized in creating comprehensive solutions that bridge the gap between front-end and back-end development. With a strong commitment to the ever-evolving web technologies, I continuously update my skills to stay at the forefront of full-stack development. While I value web accessibility, my primary focus lies in building robust, scalable, and efficient applications that deliver seamless user experiences.</p>
 
 <h4>Contact me</h4>
 <p><a href="https://www.linkedin.com/in/johanguse/"><img src="https://img.shields.io/badge/-@johanguse-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/johanguse/" alt="LinkedIn Badge"></a></p>
