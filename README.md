@@ -53,7 +53,7 @@ An interactive data visualization platform that transforms datasets into AI-powe
 <h4>Github Status</h4>
 <img src="https://github-readme-stats.vercel.app/api?username=johanguse&show_icons=true&include_all_commits=true&theme=dark" alt="Johan's Stats" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanguse&langs_count=10&layout=compact&theme=dark)](https://github.com/Olanetsoft)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johanguse&show_icons=true&theme=transparent)
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=johanguse&repo=johanguse&countColorcountColor)
 
