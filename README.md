@@ -63,7 +63,18 @@ An interactive data visualization platform that transforms datasets into AI-powe
   <img src="https://github-readme-stats.vercel.app/api?username=johanguse&show_icons=true" />
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanguse&layout=compact)
+<h4>Top Languages</h4>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=johanguse&layout=compact&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=johanguse&layout=compact"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanguse&layout=compact" />
+</picture>
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=johanguse&repo=johanguse&countColorcountColor)
 
