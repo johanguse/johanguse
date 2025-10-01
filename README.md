@@ -51,9 +51,19 @@ An interactive data visualization platform that transforms datasets into AI-powe
 <a href="http://johanguse.dev/">johanguse.dev</a>
 
 <h4>Github Status</h4>
-<img src="https://github-readme-stats.vercel.app/api?username=johanguse&show_icons=true&include_all_commits=true&theme=dark" alt="Johan's Stats" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=johanguse&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=johanguse&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=johanguse&show_icons=true" />
+</picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johanguse&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johanguse&layout=compact)
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=johanguse&repo=johanguse&countColorcountColor)
 
