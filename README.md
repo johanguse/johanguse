@@ -6,7 +6,7 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [Bank Statement Converter with AI][(https://bankstatementconverterwithai.com//?utm_source=johan-github-readme)]
+### 🤖 [Bank Statement Converter with AI](https://bankstatementconverterwithai.com//?utm_source=johan-github-readme)
 AI-powered SaaS platform for converting bank statement PDFs to structured Excel/CSV data
 - **Tech Stack**: Next.js 15.3, FastAPI, PostgreSQL, Prisma, NextAuth v5, Mistral OCR, Cloudflare R2, Stripe
 - **Features**: Microservices architecture, AI-powered OCR, subscription management, 95%+ accuracy
