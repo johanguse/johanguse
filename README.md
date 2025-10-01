@@ -12,13 +12,13 @@ AI-powered SaaS platform for converting bank statement PDFs to structured Excel/
 - **Features**: Microservices architecture, AI-powered OCR, subscription management, 95%+ accuracy
 - **Impact**: Reduces manual data entry from hours to minutes
 
-### 🔗 [LLM Generator][(https://llmgenerator.com//?utm_source=johan-github-readme)] (work in progress)
+### 🔗 [LLM Generator](https://llmgenerator.com//?utm_source=johan-github-readme) (work in progress)
 SaaS platform that generates `llms.txt` files for websites to improve visibility to Large Language Models
 - **Tech Stack**: React 19, TanStack Router, Hono, Cloudflare Workers, Trigger.dev v3, Firecrawl API, OpenAI API
 - **Features**: Real-time WebSocket updates, monorepo architecture, intelligent rate limiting, comprehensive OpenAPI docs
 - **Highlights**: Edge deployment, long-running background jobs with instant feedback
 
-### 📊 [DataTalked][(https://datatalked.com/?utm_source=johan-github-readme)] (work in progress)
+### 📊 [DataTalked](https://datatalked.com/?utm_source=johan-github-readme) (work in progress)
 An interactive data visualization platform that transforms datasets into AI-powered narratives and dashboards
 - **Tech Stack**: React 19, TanStack Router/Table, Convex, AI SDK (Anthropic/OpenAI), Recharts, Clerk Auth, Stripe
 - **Features**: Real-time database, AI-driven insights, large dataset optimization, role-based access control
