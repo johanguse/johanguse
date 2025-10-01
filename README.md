@@ -76,7 +76,9 @@ An interactive data visualization platform that transforms datasets into AI-powe
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johanguse&layout=compact" />
 </picture>
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=johanguse&repo=johanguse&countColorcountColor)
-
 <h4>Support Me</h4>
 <a href="https://www.buymeacoffee.com/johanguse"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+__
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=johanguse&repo=johanguse&countColorcountColor)
