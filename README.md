@@ -36,7 +36,7 @@ An interactive data visualization platform that transforms datasets into AI-powe
 **Auth**: NextAuth, Better Auth, Clerk, OAuth  
 **Cloud**: Cloudflare Workers/R2, Edge Computing, Serverless  
 **Payment**: Stripe (Subscriptions, Webhooks, Billing)  
-**Data Viz**: Recharts, D3.js, TanStack Table
+**Data Viz**: Recharts, D3.js, Three.js, TanStack Table
 
 ---
 
