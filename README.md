@@ -6,13 +6,13 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 [Bank Statement Converter with AI](https://bankstatementconverterwithai.com//?utm_source=johan-github-readme)
+### 🤖 [Bank Statement Converter with AI](https://bankstatementconverterwithai.com/?utm_source=johan-github-readme)
 AI-powered SaaS platform for converting bank statement PDFs to structured Excel/CSV data
 - **Tech Stack**: Next.js 15.3, FastAPI, PostgreSQL, Prisma, NextAuth v5, Mistral OCR, Cloudflare R2, Stripe
 - **Features**: Microservices architecture, AI-powered OCR, subscription management, 95%+ accuracy
 - **Impact**: Reduces manual data entry from hours to minutes
 
-### 🔗 [LLM Generator](https://llmgenerator.com//?utm_source=johan-github-readme) (work in progress)
+### 🔗 [LLM Generator](https://llmgenerator.com/?utm_source=johan-github-readme) (work in progress)
 SaaS platform that generates `llms.txt` files for websites to improve visibility to Large Language Models
 - **Tech Stack**: React 19, TanStack Router, Hono, Cloudflare Workers, Trigger.dev v3, Firecrawl API, OpenAI API
 - **Features**: Real-time WebSocket updates, monorepo architecture, intelligent rate limiting, comprehensive OpenAPI docs
