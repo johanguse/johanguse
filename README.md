@@ -34,15 +34,22 @@ An interactive data visualization platform that transforms datasets into AI-powe
 
 ## 💻 Tech Stack Highlights
 
-**Frontend**: React, Next.js, TanStack Router/Query/Table, TypeScript, Tailwind CSS, Radix UI, Shadcn/ui  
-**Backend**: Node.js, Python, FastAPI, Hono, C# (.NET), Cloudflare Workers, Convex  
-**Databases**: PostgreSQL, MongoDB, Cloudflare D1, Prisma, Drizzle ORM  
-**AI/ML**: OpenAI API, Anthropic, Mistral OCR, AI SDK, RAG, LLMs  
-**Real-time**: WebSocket, Trigger.dev, Convex Real-time DB  
-**Auth**: NextAuth, Better Auth, Clerk, OAuth  
-**Cloud**: Cloudflare Workers/R2, Edge Computing, Serverless  
-**Payment**: Stripe (Subscriptions, Webhooks, Billing)  
-**Data Viz**: Recharts, D3.js, Three.js, TanStack Table
+- **Frontend:** React, Next.js, TypeScript, JavaScript, TanStack Router, TanStack Query, TanStack Table, Tailwind CSS, Radix UI, Shadcn/ui, Material UI, Styled Components, Sass, Storybook
+- **Backend:** Node.js, Python, FastAPI, Hono, C#/.NET, PHP, Laravel, Cloudflare Workers, Convex
+- **APIs & Integration:** REST APIs, GraphQL, Webhooks, OAuth, third-party API integrations
+- **Databases & ORMs:** PostgreSQL, MySQL, MongoDB, Cloudflare D1, Supabase, Prisma, Drizzle ORM
+- **AI & LLMs:** OpenAI API, Anthropic, AI SDK, RAG, LLM workflows, embeddings, prompt engineering, Mistral OCR, Replicate
+- **Real-time & Async:** WebSockets, real-time data pipelines, Convex Real-time DB, Trigger.dev, Cloudflare Queues
+- **Authentication:** Better Auth, NextAuth/Auth.js, Clerk, Hanko, OAuth, passwordless authentication
+- **Cloud & Serverless:** Cloudflare Workers, R2, D1, Queues, Vercel, DigitalOcean, edge computing, serverless architectures
+- **Testing & Quality:** Vitest, Jest, React Testing Library, Playwright, Cypress, ESLint, Biome
+- **DevOps & CI/CD:** Git, GitHub Actions, Jenkins, Cloudflare, WP Engine, automated deployments
+- **Payments:** Stripe Subscriptions, Checkout, Billing Portal, Webhooks, recurring billing
+- **Data Visualization & 3D:** Recharts, D3.js, Three.js, interactive dashboards, real-time visualization
+- **CMS & Content Platforms:** WordPress, custom themes/plugins, ACF, WP REST API, HubSpot CMS, Astro
+- **Accessibility:** WCAG 2.1/2.2, semantic HTML, keyboard accessibility, screen-reader support, accessibility testing
+- **Mobile:** React Native, Flutter, SwiftUI, Kotlin, Jetpack Compose
+- **Analytics & Tracking:** GA4, Google Tag Manager, Segment, PostHog, Amplitude, Hotjar, Microsoft Clarity, Meta Pixel
 
 ---
 
