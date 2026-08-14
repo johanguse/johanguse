@@ -1,6 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1588262851/8816/meow_bread_appear.gif?1588262851" width="30"/> Hello! </h1>
 
-<p>Highly skilled and dedicated full-stack developer with over ten years of industry experience, specializing in AI-powered applications, real-time systems, and modern cloud-native architectures. Currently pursuing Applied Artificial Intelligence studies while building production SaaS platforms that leverage cutting-edge technologies, including LLMs, real-time WebSocket systems, and advanced data processing—committed to promoting accessibility and ensuring equal opportunities for all individuals to navigate the web. I firmly believe in the inclusive nature of the Internet and continuously seek ways to enhance both the accessibility and intelligence of my applications. Passionate about combining traditional web development expertise with emerging AI technologies to create innovative, user-friendly experiences that solve real-world problems.</p>
+<p>I’m a full-stack engineer with over ten years of experience building digital products, scalable platforms, and user-focused applications.
+
+More recently, my work has focused on artificial intelligence, real-time systems, and building products that turn emerging technologies into practical solutions. I’m also pursuing studies in Applied Artificial Intelligence, expanding how I approach automation, intelligent experiences, and complex product challenges.
+
+Accessibility remains an important part of how I build software. I believe the web should be usable by everyone, and I aim to create products that are not only intelligent and capable, but also inclusive, intuitive, and genuinely useful.
+
+I enjoy working at the intersection of engineering, product, and emerging technology—taking complex ideas and turning them into thoughtful experiences that solve real problems.</p>
 
 ---
 
