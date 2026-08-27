@@ -24,6 +24,14 @@ SaaS platform that generates `llms.txt` files for websites to improve visibility
 - **Features**: Real-time WebSocket updates, monorepo architecture, intelligent rate limiting, comprehensive OpenAPI docs
 - **Highlights**: Edge deployment, long-running background jobs with instant feedback
 
+### ⚡ [SpeedInts](https://speedints.com/?utm_source=johan-github-readme) (work in progress)
+
+Website monitoring platform for tracking performance, site health, screenshots, changes, and AI-readiness
+
+- **Tech Stack**: React 19, TanStack Router, Hono, Cloudflare Workers, D1, R2, KV, Drizzle ORM, Better Auth, Stripe
+- **Features**: Core Web Vitals monitoring, multi-page audits, site health scans, screenshot comparison, change detection, alerts, and branded PDF reports
+- **Highlights**: Edge-deployed architecture, scheduled monitoring, AI-powered improvement recommendations, and nine-language support
+
 ### 📊 [DataTalked](https://datatalked.com/?utm_source=johan-github-readme) (work in progress)
 An interactive data visualization platform that transforms datasets into AI-powered narratives and dashboards
 - **Tech Stack**: React 19, TanStack Router/Table, Convex, AI SDK (Anthropic/OpenAI), Recharts, Clerk Auth, Stripe
