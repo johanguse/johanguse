@@ -42,22 +42,22 @@ An interactive data visualization platform that transforms datasets into AI-powe
 
 ## 💻 Tech Stack Highlights
 
-- **Frontend:** React, Next.js, TypeScript, JavaScript, TanStack Router, TanStack Query, TanStack Table, Tailwind CSS, Radix UI, Shadcn/ui, Material UI, Styled Components, Sass, Storybook
-- **Backend:** Node.js, Python, FastAPI, Hono, C#/.NET, PHP, Laravel, Cloudflare Workers, Convex
-- **APIs & Integration:** REST APIs, GraphQL, Webhooks, OAuth, third-party API integrations
-- **Databases & ORMs:** PostgreSQL, MySQL, MongoDB, Cloudflare D1, Supabase, Prisma, Drizzle ORM
-- **AI & LLMs:** OpenAI API, Anthropic, AI SDK, RAG, LLM workflows, embeddings, prompt engineering, Mistral OCR, Replicate
-- **Real-time & Async:** WebSockets, real-time data pipelines, Convex Real-time DB, Trigger.dev, Cloudflare Queues
-- **Authentication:** Better Auth, NextAuth/Auth.js, Clerk, Hanko, OAuth, passwordless authentication
-- **Cloud & Serverless:** Cloudflare Workers, R2, D1, Queues, Vercel, DigitalOcean, edge computing, serverless architectures
-- **Testing & Quality:** Vitest, Jest, React Testing Library, Playwright, Cypress, ESLint, Biome
-- **DevOps & CI/CD:** Git, GitHub Actions, Jenkins, Cloudflare, WP Engine, automated deployments
-- **Payments:** Stripe Subscriptions, Checkout, Billing Portal, Webhooks, recurring billing
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Vue, Nuxt, Astro, TanStack Router, TanStack Query, TanStack Table, Tailwind CSS, Radix UI, Shadcn/ui, Material UI, Styled Components, Sass, Storybook
+- **Backend:** Node.js, Python, FastAPI, Hono, C#/.NET, PHP, Laravel, Go, Convex
+- **APIs & Integrations:** REST APIs, GraphQL, tRPC, Webhooks, OAuth, third-party API integrations
+- **Databases & ORMs:** PostgreSQL, MySQL, MongoDB, Cloudflare D1, Supabase, Convex, Prisma, Drizzle ORM
+- **AI & LLMs:** OpenAI API, Anthropic API, AI SDK, RAG, LLM workflows, embeddings, AI agents, prompt engineering, Mistral OCR, Replicate, AI-powered data processing
+- **Real-time & Async:** WebSockets, real-time data pipelines, Convex Real-time DB, Trigger.dev, Cloudflare Queues, background jobs, queue management
+- **Authentication & Security:** Better Auth, Auth.js/NextAuth, Clerk, Hanko, OAuth, JWT, passwordless authentication, RBAC, API security, OWASP
+- **Cloud & Serverless:** Cloudflare Workers, R2, D1, Queues, AWS, Vercel, DigitalOcean, Docker, edge computing, serverless architectures
+- **Testing & Quality:** Vitest, Jest, React Testing Library, Playwright, Cypress, ESLint, Biome, Core Web Vitals, performance optimization
+- **DevOps & CI/CD:** Git, GitHub Actions, Jenkins, Cloudflare, WP Engine, automated deployments, multi-environment deployments
+- **Payments:** Stripe Subscriptions, Checkout, Billing Portal, Webhooks, recurring billing, credit-based pricing
 - **Data Visualization & 3D:** Recharts, D3.js, Three.js, interactive dashboards, real-time visualization
-- **CMS & Content Platforms:** WordPress, custom themes/plugins, ACF, WP REST API, HubSpot CMS, Astro
+- **CMS & Content Platforms:** WordPress, custom themes/plugins, ACF, WP REST API, HubSpot CMS
 - **Accessibility:** WCAG 2.1/2.2, semantic HTML, keyboard accessibility, screen-reader support, accessibility testing
-- **Mobile:** React Native, Flutter, SwiftUI, Kotlin, Jetpack Compose
-- **Analytics & Tracking:** GA4, Google Tag Manager, Segment, PostHog, Amplitude, Hotjar, Microsoft Clarity, Meta Pixel
+- **Mobile:** React Native, Expo, SwiftUI
+- **Analytics, Experimentation & Observability:** GA4, Google Tag Manager, Segment, PostHog, Amplitude, Hotjar, Microsoft Clarity, Meta Pixel, A/B testing, conversion tracking, Sentry, New Relic
 
 ---
 
