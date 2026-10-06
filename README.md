@@ -12,19 +12,26 @@ I enjoy working at the intersection of engineering, product, and emerging techno
 
 ## 🚀 Featured Projects
 
-### 🤖 [Bank Statement Converter with AI](https://bankstatementconverterwithai.com/?utm_source=johan-github-readme)
+### [Bank Statement Converter with AI](https://bankstatementconverterwithai.com/?utm_source=johan-github-readme)
 AI-powered SaaS platform for converting bank statement PDFs to structured Excel/CSV data
 - **Tech Stack**: Next.js 15.3, FastAPI, PostgreSQL, Prisma, NextAuth v5, Mistral OCR, Cloudflare R2, Stripe
 - **Features**: Microservices architecture, AI-powered OCR, subscription management, 95%+ accuracy
 - **Impact**: Reduces manual data entry from hours to minutes
 
-### 🔗 [LLM Generator](https://llmgenerator.com/?utm_source=johan-github-readme)
+### [LLM Generator](https://llmgenerator.com/?utm_source=johan-github-readme)
 SaaS platform that generates `llms.txt` files for websites to improve visibility to Large Language Models
 - **Tech Stack**: React 19, TanStack Router, Hono, Cloudflare Workers, Trigger.dev v3, Firecrawl API, OpenAI API
 - **Features**: Real-time WebSocket updates, monorepo architecture, intelligent rate limiting, comprehensive OpenAPI docs
 - **Highlights**: Edge deployment, long-running background jobs with instant feedback
 
-### ⚡ [SpeedInts](https://speedints.com/?utm_source=johan-github-readme) (work in progress)
+### [BetterAgentAI](https://betteragentai.com/?utm_source=johan-github-readme) (work in progress)
+
+Multi-tenant platform for creating AI support agents and embedding them on customer websites
+- **Tech Stack**: SvelteKit 2, Svelte 5, React Native, Expo, Expo Router, FastAPI, PostgreSQL, Qdrant, Cloudflare Workers/R2, Better Auth, Stripe
+- **Features**: RAG knowledge bases from documents, URLs, and text; embeddable streaming chat widget; custom agent instructions; workflows; analytics; team roles and billing
+- **Highlights**: Multi-agent orchestration, real-time dashboard chat, configurable website widget, and multilingual support
+
+### [SpeedInts](https://speedints.com/?utm_source=johan-github-readme) (work in progress)
 
 Website monitoring platform for tracking performance, site health, screenshots, changes, and AI-readiness
 
@@ -32,11 +39,6 @@ Website monitoring platform for tracking performance, site health, screenshots, 
 - **Features**: Core Web Vitals monitoring, multi-page audits, site health scans, screenshot comparison, change detection, alerts, and branded PDF reports
 - **Highlights**: Edge-deployed architecture, scheduled monitoring, AI-powered improvement recommendations, and nine-language support
 
-### 📊 [DataTalked](https://datatalked.com/?utm_source=johan-github-readme) (work in progress)
-An interactive data visualization platform that transforms datasets into AI-powered narratives and dashboards
-- **Tech Stack**: React 19, TanStack Router/Table, Convex, AI SDK (Anthropic/OpenAI), Recharts, Clerk Auth, Stripe
-- **Features**: Real-time database, AI-driven insights, large dataset optimization, role-based access control
-- **Focus**: Business intelligence through compelling data storytelling
 
 ---
 
